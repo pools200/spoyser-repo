@@ -29,14 +29,14 @@ HOME = utils.ADDON.getAddonInfo('path')
 
 def ResolveURL(url):
     #print url
-    #url = 'http://www.watchcartoononline.com/axis-powers-hetalia-episode-46-english-subbed' #vweed
-    #url = 'http://www.watchcartoononline.com/halo-legends-episode-8-english-dubbed' #veoh
-    #url = 'http://www.watchcartoononline.com/american-dad-season-1-episode-20-roger-n-me'#cizgifilmlerizle
-    #url = 'http://www.watchcartoononline.com/adventures-of-sonic-the-hedgehog-episode-66-sonic-christmas-blast' #Youtube
-    #url = 'http://www.watchcartoononline.com/tmnt-season-7-episode-13-wedding-bells-and-bytes' #Youtube 2 PARTS
-    #url = 'http://www.watchcartoononline.com/thundercats-2011-premiere' #movieweb
-    #url = 'http://www.watchcartoononline.com/hacklegend-of-the-twilight-episode-12-english-dubbed'
-    #url = 'http://www.watchcartoononline.com/mr-bean-the-animated-series-episode-49-in-the-pink' #YouTube GEOLOCKED embeded
+    #url = 'http://www.watchcartoononline.io/axis-powers-hetalia-episode-46-english-subbed' #vweed
+    #url = 'http://www.watchcartoononline.io/halo-legends-episode-8-english-dubbed' #veoh
+    #url = 'http://www.watchcartoononline.io/american-dad-season-1-episode-20-roger-n-me'#cizgifilmlerizle
+    #url = 'http://www.watchcartoononline.io/adventures-of-sonic-the-hedgehog-episode-66-sonic-christmas-blast' #Youtube
+    #url = 'http://www.watchcartoononline.io/tmnt-season-7-episode-13-wedding-bells-and-bytes' #Youtube 2 PARTS
+    #url = 'http://www.watchcartoononline.io/thundercats-2011-premiere' #movieweb
+    #url = 'http://www.watchcartoononline.io/hacklegend-of-the-twilight-episode-12-english-dubbed'
+    #url = 'http://www.watchcartoononline.io/mr-bean-the-animated-series-episode-49-in-the-pink' #YouTube GEOLOCKED embeded
 
     ImportModules()
 

@@ -124,9 +124,9 @@ def Main():
 
 def DoSection(url):
     mode = SERIES
-    if url == 'http://www.watchcartoononline.com/movie-list':
+    if url == 'http://www.watchcartoononline.io/movie-list':
         mode = EPISODE
-    if url == 'http://www.watchcartoononline.com/ova-list':
+    if url == 'http://www.watchcartoononline.io/ova-list':
         mode = EPISODE
 
     html = utils.getHTML(url)
